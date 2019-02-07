@@ -1,0 +1,7 @@
+﻿  HW.cpp
+c:\users\mmuma\documents\visual studio 2015\projects\homework-1_sols\homework-1\hw.cpp(240): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\mmuma\documents\visual studio 2015\projects\homework-1_sols\homework-1\hw.cpp(244): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\mmuma\documents\visual studio 2015\projects\homework-1_sols\homework-1\hw.cpp(274): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\mmuma\documents\visual studio 2015\projects\homework-1_sols\homework-1\hw.cpp(278): warning C4553: '==': operator has no effect; did you intend '='?
+  HomeWork-1.vcxproj -> C:\Users\mmuma\Documents\Visual Studio 2015\Projects\HomeWork-1_Sols\Debug\HomeWork-1.exe
+  HomeWork-1.vcxproj -> C:\Users\mmuma\Documents\Visual Studio 2015\Projects\HomeWork-1_Sols\Debug\HomeWork-1.pdb (Full PDB)
